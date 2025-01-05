@@ -1,2 +1,2 @@
-# challenge-aluraflix
+# Challenge Aluraflix
  
